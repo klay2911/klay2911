@@ -13,7 +13,7 @@
  </div>
 
 <div align="center"> 
-  <a href="mailto:hieumt24@gmail.com">
+  <a href="mailto:thienvu291102@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
  <!-- sqlite, safari, google-chrome are other good icon options -->
@@ -28,9 +28,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,javascript,github" /><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,rider,styledcomponents" /><br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=cs,java,dotnet,mysql,javascript" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,mui,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,rider,github,vscode,postman" />
 </div>
   <br/><br/><br/>
 <hr/>
@@ -58,5 +58,7 @@
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <a href="[link](https://www.linkedin.com/in/la-thien-vu-372009271/)">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    </a>
 </h3>

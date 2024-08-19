@@ -49,7 +49,7 @@
 <br>
 <div align=center>
      <a href="#" title="klay2911">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieumt24&hide=csharp,powershell,Mathematica,Cs,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klay2911&hide=csharp,powershell,Mathematica,Cs,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="klay2911">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=klay2911&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
